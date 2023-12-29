@@ -71,8 +71,9 @@ p{
     }
   .row {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
+        justify-content: space-around;
     }
     .btn {
         margin: 10px;
