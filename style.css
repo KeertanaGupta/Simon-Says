@@ -69,6 +69,11 @@ p{
     p{
         margin-bottom: 60px;
     }
+  .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
     .btn {
         margin: 10px;
         height: 100px;
